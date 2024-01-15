@@ -28,4 +28,4 @@ To get started, follow the steps below:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Joelkons02/Dunta-Console.git
-   cd Dunta-Console
+   cd Dunta-Console-main
